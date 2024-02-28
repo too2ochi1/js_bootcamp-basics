@@ -1,3 +1,3 @@
-let name = 'Jason Herbert'
+let first_name = 'Jason'
 
-console.log(name)
+console.log(first_name)
