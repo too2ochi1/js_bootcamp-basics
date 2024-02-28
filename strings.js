@@ -1,3 +1,4 @@
 let first_name = 'Jason'
-
-console.log(first_name)
+let last_name = 'Herbert'
+let full_name = first_name + ' ' + last_name
+console.log(full_name)
